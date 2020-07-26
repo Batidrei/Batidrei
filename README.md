@@ -1,4 +1,6 @@
-### Hi there 👋
+# What's up, Doc? 🐰🥕
+
+Mi nombre es Alex Andrei, soy desarrollador con gusto de diseñador.
 
 <!--
 **Batidrei/Batidrei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
